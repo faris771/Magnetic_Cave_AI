@@ -26,7 +26,7 @@ The following figures show possible configurations of the game
 * clone this repository, and move to it
 
     ```bash
-    git clone https://github.com/Rasheed-Al-Qobbaj/Magnetic_Cave.git    
+    git clone https://github.com/faris771/Magnetic_Cave_AI.git    
     cd Magnetic_Cave
     ```
 * Additionally, make sure you have NumPy installed. NumPy is a Python library used for efficient numerical computations and is a requirement for this program.
@@ -41,14 +41,13 @@ The following figures show possible configurations of the game
   ```
   python main.py
   ```
+![Screenshot (245)](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/eda32d5b-94fa-4748-b3ca-8026c02e0382)
+
+![Screenshot (251)](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/264609cf-1c5c-4be4-bc70-bdf2678d11a8)
 
 
-![Screenshot (249)](https://github.com/Rasheed-Al-Qobbaj/Magnetic_Cave/assets/70337488/1a41d37f-512f-45e5-9603-8f48a80f8527)
+![Screenshot (252)](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/c7af747e-d54b-46e6-84dc-43c38559b443)
 
-
-![Screenshot (251)](https://github.com/Rasheed-Al-Qobbaj/Magnetic_Cave/assets/70337488/cb651ce9-3f07-4400-83f0-0220146f7f81)
-
-![Screenshot (252)](https://github.com/Rasheed-Al-Qobbaj/Magnetic_Cave/assets/70337488/d4e5e557-0e12-43a4-8e65-819e1cd1cb57)
 
 # Documents
 > [Project Description](AI_project.pdf)
