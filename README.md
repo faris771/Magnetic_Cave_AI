@@ -41,12 +41,12 @@ The following figures show possible configurations of the game
   ```
   python main.py
   ```
-![Screenshot (245)](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/eda32d5b-94fa-4748-b3ca-8026c02e0382)
 
-![Screenshot (251)](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/264609cf-1c5c-4be4-bc70-bdf2678d11a8)
+![Screenshot (249)](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/c26a255a-aa3c-45c7-a388-168bd798960e)
 
+![Screenshot (251)](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/b0aa8213-d191-426a-b40b-0c4f77c96589)
 
-![Screenshot (252)](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/c7af747e-d54b-46e6-84dc-43c38559b443)
+![Screenshot (252)](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/73c6effb-364d-4edd-a0c5-3d55a6d065fc)
 
 
 # Documents
