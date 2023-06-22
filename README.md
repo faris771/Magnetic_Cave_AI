@@ -27,7 +27,7 @@ The following figures show possible configurations of the game
 
     ```bash
     git clone https://github.com/faris771/Magnetic_Cave_AI.git    
-    cd Magnetic_Cave
+    cd Magnetic_Cave_AI
     ```
 * Additionally, make sure you have NumPy installed. NumPy is a Python library used for efficient numerical computations and is a requirement for this program.
   ```
