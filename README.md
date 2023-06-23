@@ -19,7 +19,7 @@ player wins the game.
 - If no player is able to achieve a winning configuration and the board is full,then the game stops and there is a tie.
 
 The following figures show possible configurations of the game
-![sadsadasd](https://github.com/Rasheed-Al-Qobbaj/Magnetic_Cave/assets/70337488/8889932b-7fad-4153-96e0-98b14252f726)
+![sadsadasd](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/e9d2b14f-8289-4023-995e-69f13e875294)
 
 # Setup 
 * install python **>= 3.9** and git
