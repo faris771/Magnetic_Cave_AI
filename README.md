@@ -22,7 +22,7 @@ The following figures show possible configurations of the game
 ![sadsadasd](https://github.com/faris771/Magnetic_Cave_AI/assets/70337488/e9d2b14f-8289-4023-995e-69f13e875294)
 
 # Setup 
-* install python **>= 3.9** and git
+* install python **>= 3.6** and git
 * clone this repository, and move to it
 
     ```bash
